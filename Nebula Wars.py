@@ -4,6 +4,8 @@
 # Check out the 'Encyclopedia' README file to discover how this code works
 # -*- CC BY-NC 4.0 -*-
 
+#中文翻譯--戴君儒
+
 import pygame, sys, math, random
 from pygame.locals import *
 
